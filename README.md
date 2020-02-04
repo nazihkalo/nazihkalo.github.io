@@ -3,4 +3,4 @@
 ## About this Repo
 This is my personal portfolio website and is built utilizing HTML. 
 
-# [CHECK IT OUT](nazihkalo.github.io)
+# [CHECK IT OUT](https://nazihkalo.github.io)
