@@ -1,3 +1,9 @@
 name: My Jekyll Website
 
+collections:
+  projects:
+    output: true
+    permalink: /projects/:path/
+
+
 google_analytics: UA-158299119-1 # your Google Analytics tracking ID here
